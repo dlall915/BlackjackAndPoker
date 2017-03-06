@@ -1,0 +1,440 @@
+Time: Tue May 07 14:52:14 2013
+
+dealer 8
+player 5
+player 9
+player 16
+dealer 18
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 14:52:28 2013
+
+dealer 2
+player 4
+player 13
+player 14
+player 24
+dealer 8
+dealer 18
+player > 21, Bust! You lose!
+
+Time: Tue May 07 14:52:50 2013
+
+dealer 5
+player 10
+player 20
+dealer 13
+dealer 18
+player > dealer, player < 21, You win!
+
+Time: Tue May 07 14:52:54 2013
+
+dealer 3
+player 9
+player 17
+dealer 13
+dealer 23
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Tue May 07 14:52:59 2013
+
+dealer 11
+player 10
+player 16
+dealer 14
+dealer 19
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 14:53:07 2013
+
+dealer 8
+player 5
+player 13
+player 22
+dealer 15
+dealer 18
+player > 21, Bust! You lose!
+
+Time: Tue May 07 15:13:40 2013
+
+dealer 9
+player 2
+player 11
+player 12
+player 14
+dealer 16
+dealer 22
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Tue May 07 15:14:46 2013
+
+dealer 3
+player 5
+player 13
+player 15
+player 17
+dealer 8
+dealer 13
+dealer 20
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 15:15:00 2013
+
+dealer 10
+player 7
+player 15
+dealer 19
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 15:15:11 2013
+
+dealer 7
+player 7
+player 17
+dealer 17
+player = dealer, player < 21, Tie!
+
+Time: Tue May 07 15:15:18 2013
+
+dealer 4
+player 10
+player 16
+dealer 6
+dealer 16
+dealer 20
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 23:03:52 2013
+
+dealer 8
+player 10
+player 17
+dealer 18
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 23:03:55 2013
+
+dealer 10
+player 7
+player 11
+player 15
+dealer 16
+dealer 22
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Tue May 07 23:04:01 2013
+
+dealer 10
+player 6
+player 15
+player 20
+dealer 21
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 23:04:09 2013
+
+dealer 6
+player 11
+player 18
+dealer 16
+dealer 21
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 23:04:14 2013
+
+dealer 9
+player 10
+player 16
+player 17
+dealer 17
+player = dealer, player < 21, Tie!
+
+Time: Tue May 07 23:04:23 2013
+
+dealer 6
+player 10
+player 20
+dealer 16
+dealer 18
+player > dealer, player < 21, You win!
+
+Time: Tue May 07 23:04:29 2013
+
+dealer 2
+player 10
+player 15
+player 16
+dealer 11
+dealer 14
+dealer 24
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Tue May 07 23:07:28 2013
+
+dealer 10
+player 10
+player 20
+dealer 15
+dealer 24
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Tue May 07 23:07:36 2013
+
+dealer 8
+player 10
+player 20
+dealer 16
+dealer 26
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Tue May 07 23:07:38 2013
+
+dealer 4
+player 10
+player 20
+dealer 11
+dealer 16
+dealer 22
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Tue May 07 23:07:40 2013
+
+dealer 8
+player 3
+player 7
+player 15
+dealer 19
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 23:07:45 2013
+
+dealer 2
+player 5
+player 16
+dealer 10
+dealer 20
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 23:07:51 2013
+
+dealer 10
+player 2
+player 5
+player 9
+player 11
+player 20
+dealer 18
+player > dealer, player < 21, You win!
+
+Time: Tue May 07 23:08:02 2013
+
+dealer 2
+player 8
+player 12
+player 22
+dealer 12
+dealer 13
+dealer 14
+dealer 18
+player > 21, Bust! You lose!
+
+Time: Tue May 07 23:08:04 2013
+
+dealer 10
+player 9
+player 19
+dealer 20
+dealer < 21, dealer > player, You lose!
+
+Time: Tue May 07 23:08:06 2013
+
+dealer 4
+player 2
+player 12
+player 22
+dealer 6
+dealer 16
+dealer 26
+player = dealer, player < 21, Tie!
+
+Time: Tue May 07 23:08:11 2013
+
+dealer 5
+player 10
+player 14
+player 24
+dealer 10
+dealer 20
+player > 21, Bust! You lose!
+
+Time: Tue May 07 23:08:13 2013
+
+dealer 7
+player 11
+player 15
+player 15
+player 25
+dealer 16
+dealer 22
+player = dealer, player < 21, Tie!
+
+Time: Tue May 07 23:08:19 2013
+
+dealer 2
+player 9
+player 19
+dealer 9
+dealer 12
+dealer 22
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Wed May 08 10:18:17 2013
+
+dealer 10
+player 9
+player 17
+dealer 20
+dealer < 21, dealer > player, You lose!
+
+Time: Wed May 08 10:18:35 2013
+
+dealer 3
+player 10
+player 21
+dealer 13
+dealer 23
+player = 21, Blackjack! You win!
+
+Time: Wed May 08 10:18:37 2013
+
+dealer 5
+player 11
+player 21
+dealer 15
+dealer 16
+dealer 25
+player = 21, Blackjack! You win!
+
+Time: Wed May 08 10:18:41 2013
+
+dealer 11
+player 4
+player 14
+player 23
+dealer 14
+dealer 16
+dealer 17
+player > 21, Bust! You lose!
+
+Time: Wed May 08 10:18:44 2013
+
+dealer 10
+player 9
+player 19
+dealer 17
+player > dealer, player < 21, You win!
+
+Time: Wed Aug 07 15:30:48 2013
+
+dealer 10
+player 10
+player 20
+Time: Wed Aug 07 15:30:58 2013
+
+dealer 4
+player 2
+player 12
+Time: Wed Aug 07 15:32:21 2013
+
+dealer 2
+player 10
+player 20
+Time: Wed Aug 07 15:33:14 2013
+
+dealer 6
+player 4
+player 14
+player 17
+player 27
+dealer 16
+dealer 22
+player = dealer, player < 21, Tie!
+
+Time: Fri Aug 09 15:21:39 2013
+
+dealer 3
+player 5
+player 9
+Time: Fri Aug 09 15:22:39 2013
+
+dealer 9
+player 4
+player 14
+Time: Fri Aug 09 20:23:41 2013
+
+dealer 3
+player 6
+player 11
+player 17
+dealer 7
+dealer 16
+dealer 26
+player < 21, dealer > 21, Dealer bust! You win!
+
+Time: Fri Aug 09 20:23:47 2013
+
+dealer 3
+player 10
+player 13
+Time: Fri Aug 09 20:29:03 2013
+
+dealer 11
+player 8
+player 14
+Time: Sat Aug 10 11:57:35 2013
+
+dealer 7
+player 3
+player 12
+Time: Mon Jan 06 10:20:05 2014
+
+dealer 7
+player 4
+player 10
+player 16
+dealer 10
+dealer 21
+dealer < 21, dealer > player, You lose!
+
+Time: Mon Jan 06 10:20:49 2014
+
+dealer 8
+player 6
+player 16
+dealer 12
+dealer 21
+dealer < 21, dealer > player, You lose!
+
+Time: Mon Jan 06 10:24:14 2014
+
+dealer 11
+player 10
+player 20
+dealer 17
+player > dealer, player < 21, You win!
+
+Time: Mon Jan 06 10:24:21 2014
+
+dealer 10
+player 4
+player 8
+Time: Mon Jan 06 10:24:29 2014
+
+dealer 7
+player 5
+player 12
+Time: Mon Jan 06 10:24:31 2014
+
+dealer 5
+player 8
+player 14

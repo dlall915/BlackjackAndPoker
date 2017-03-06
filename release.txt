@@ -1,0 +1,19 @@
+4/13/13 - Finished basic program without Ace value of 11 or unique drawing.
+
+4/19/13 - Combined card values, name, and suite into struct card.
+
+4/26/13 - Added Ace value of 11 and unique drawing. 
+	- Added fstream to track player/dealer totals, randomly generated numbers, and outcomes.
+
+4/27/13 - Finished basic graphic layout. 
+	- Added locations for card images to struct card. 
+	- Added new game option.
+
+4/29/13 - Moved struct card and all 52 instances to deck.h.
+
+4/30/13 - Removed multiple SDL_Rect for player card 3, 4, and 5. Added pointer for y value instead.
+	- Changed all SDL_Rect to single lines.
+
+5/6/13  - Moved all functions to functions.h.
+	- Added instructions.
+	- Created function for static items (instructions, deck top...).

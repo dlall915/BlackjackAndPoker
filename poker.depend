@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1376414574 source:u:\school\honors project\honors test file.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"deck.h"
+	"functionsclass.h"
+
+1376440410 u:\school\honors project\deck.h
+
+1376158390 u:\school\honors project\functionsclass.h
+	<fstream>
+
+1376440576 source:u:\school\honors project\poker main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"deck.h"
+	"functionspoker.h"
+
+1376440856 u:\school\honors project\functionspoker.h
+
+1388964067 source:c:\users\dlall_000\desktop\honors project\poker main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"deck.h"
+	"functionspoker.h"
+
+1376440410 c:\users\dlall_000\desktop\honors project\deck.h
+
+1388964795 c:\users\dlall_000\desktop\honors project\functionspoker.h
+
+1388964067 source:c:\users\dlall_000\desktop\projects\poker main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"deck.h"
+	"functionspoker.h"
+
+1376440410 c:\users\dlall_000\desktop\projects\deck.h
+
+1388964795 c:\users\dlall_000\desktop\projects\functionspoker.h
+
